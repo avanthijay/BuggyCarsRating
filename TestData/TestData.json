@@ -1,0 +1,36 @@
+[
+  {
+    "alias": "validUser",
+    "username": "JaneA",
+    "password": "Bcrtest@123",
+    "firstName": "Jane",
+    "lastName": "Applesead",
+    "gender": "Female",
+    "Age": "28",
+    "address": "New Zealand",
+    "Phone": "0218834572",
+    "hobby": "Biking"
+  },
+  {
+    "alias": "validUser2",
+    "username": "BugsBunny",
+    "password": "Password@123",
+    "firstName": "Bugs",
+    "lastName": "Bunny",
+    "gender": "",
+    "Age": "",
+    "address": "",
+    "Phone": "",
+    "hobby": ""
+  },
+  {
+    "alias": "InvalidUser",
+    "username": "invalidusername",
+    "password": "invalidpassword"
+  },
+  {
+    "alias": "ProfileUpdate",
+    "username": "CloudW",
+    "password": "Password@123"
+  }
+]
